@@ -1,6 +1,11 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.7
+
+This is a NestJS project that uses a hexagonal architecture, DDD: Domain Driven Design, TDD: Test Driven Design and Swagger to document all the endpoints.
+
+This project uses the repository microservices:
+https://github.com/EdgarTec97/NestJS-DDD-Students-Teachers
 
 ## Installation
 
